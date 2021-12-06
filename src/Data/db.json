@@ -1,0 +1,49 @@
+{
+  "Cars": [
+    {
+      "id": 1,
+      "title": "Honda RCV",
+      "model": "RCV",
+      "company": "Honda",
+      "features": "4 Seater, Front and Back AC, Leather Seats, Sunroof",
+      "discription": "A true family SUV. Whether you are navigating the weekday school run or travelling the wildest weekend, RCB 1 has you covered for the routine, extreme and everything in between"
+    },
+    {
+      "id": 2,
+      "title": "Honda Civic",
+      "model": "Civic",
+      "company": "Honda",
+      "features": "4 Seater, Audio System, Led lights, 18-inch wheels",
+      "discription": "From the sleek new styling to it's airy cabin. the honda civic is a joy to behold and even better to drive. A lower, wider frame and expanded glass areas create a powerfull look from the outside whilw enhancing look from the inside. All new civic of 2021 is engineered for instantaneous response, with a sport-tuned suspension and upgraded powertrain options."
+    }
+  ],
+  "Contact": [
+    {
+      "company": "(RCB) Regular Car of Brooklyn",
+      "address": "240, Eucid Ave, Queens, New York 11220 618-220-0000",
+      "email": "rcbautomative@gmail.com"
+    }
+  ],
+  "Review": [
+    {
+      "id": 0,
+      "name": "Bilal Khalil Khankhail",
+      "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 1,
+      "name": "Mesam Zardari",
+      "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 2,
+      "name": "Lundon Zardari",
+      "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 3,
+      "name": "Lundon Zardari",
+      "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    }
+  ]
+}
