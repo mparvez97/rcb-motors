@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rcb-motors/static/css/main.4c3b6f9a.chunk.css",
+    "main.js": "/rcb-motors/static/js/main.8e61cc3a.chunk.js",
+    "main.js.map": "/rcb-motors/static/js/main.8e61cc3a.chunk.js.map",
+    "runtime-main.js": "/rcb-motors/static/js/runtime-main.105377b6.js",
+    "runtime-main.js.map": "/rcb-motors/static/js/runtime-main.105377b6.js.map",
+    "static/js/2.a731a297.chunk.js": "/rcb-motors/static/js/2.a731a297.chunk.js",
+    "static/js/2.a731a297.chunk.js.map": "/rcb-motors/static/js/2.a731a297.chunk.js.map",
+    "static/js/3.ce6c121f.chunk.js": "/rcb-motors/static/js/3.ce6c121f.chunk.js",
+    "static/js/3.ce6c121f.chunk.js.map": "/rcb-motors/static/js/3.ce6c121f.chunk.js.map",
+    "index.html": "/rcb-motors/index.html",
+    "static/css/main.4c3b6f9a.chunk.css.map": "/rcb-motors/static/css/main.4c3b6f9a.chunk.css.map",
+    "static/js/2.a731a297.chunk.js.LICENSE.txt": "/rcb-motors/static/js/2.a731a297.chunk.js.LICENSE.txt",
+    "static/media/CRV.d61a9f8a.jpg": "/rcb-motors/static/media/CRV.d61a9f8a.jpg",
+    "static/media/Civic.00c96be8.jpg": "/rcb-motors/static/media/Civic.00c96be8.jpg",
+    "static/media/logo.2ec4782f.jpeg": "/rcb-motors/static/media/logo.2ec4782f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.105377b6.js",
+    "static/js/2.a731a297.chunk.js",
+    "static/css/main.4c3b6f9a.chunk.css",
+    "static/js/main.8e61cc3a.chunk.js"
+  ]
+}
